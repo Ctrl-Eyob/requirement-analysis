@@ -20,5 +20,36 @@ By conducting thorough analysis:
 - Testers know **what to verify**.  
 - Stakeholders understand **what to expect**.  
 
-In short, Requirement Analysis ensures that the final software product meets the intended goals, functions efficiently, and satisfies user needs — making it one of the most essential phases in the SDLC.
-Would you like me to add another section next, such as “Phases of Requirement Analysis” or “Types of
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis process is composed of several interrelated activities that ensure the software requirements are accurate, complete, and aligned with business objectives.
+
+### **1. Requirement Gathering**
+- Involves collecting information from various stakeholders such as clients, users, and business managers.  
+- Techniques include **interviews, surveys, questionnaires, and workshops**.  
+- The goal is to understand the **business needs** and **user expectations** that the software must fulfill.
+
+### **2. Requirement Elicitation**
+- Focuses on exploring and refining gathered requirements to uncover deeper insights.  
+- Uses techniques like **brainstorming, prototyping, observation, and use case analysis**.  
+- Helps in identifying hidden or unclear requirements that stakeholders may not have initially articulated.
+
+### **3. Requirement Documentation**
+- All collected and refined requirements are formally documented in artifacts such as the **Software Requirement Specification (SRS)**, **use cases**, and **user stories**.  
+- Ensures that the requirements are communicated clearly and consistently across the development team.  
+- Provides a reference point throughout the project lifecycle.
+
+### **4. Requirement Analysis and Modeling**
+- Involves examining requirements to ensure they are **complete, feasible, and consistent**.  
+- Modeling techniques such as **data flow diagrams (DFD), entity-relationship diagrams (ERD), and use case diagrams** are used to visualize system behavior.  
+- Helps bridge the gap between user requirements and system design.
+
+### **5. Requirement Validation**
+- The final step that ensures all documented requirements align with stakeholder expectations and project objectives.  
+- Includes **reviews, walkthroughs, and prototyping sessions** with stakeholders.  
+- Ensures that the defined requirements are correct, testable, and achievable within the project constraints.
+
+---
+
+These five activities collectively ensure that the software project starts on a solid foundation — reducing risks, improving communication, and aligning the development team with stakeholder goals.
+
