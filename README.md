@@ -117,4 +117,5 @@ A **Use Case Diagram** is a visual representation that shows the interactions be
 
 Below is the visual representation of the use case diagram:
 
-<img width="4480" height="2721" alt="alx-booking-uc.png" src="https://github.com/user-attachments/assets/f1acb1c6-f20c-4d1b-86b8-60cd176e6d22" />
+<img width="4480" height="2721" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/45e43018-3d31-49ed-9f66-3e7c30616183" />
+
