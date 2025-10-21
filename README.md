@@ -84,3 +84,37 @@ Non-functional requirements define **how the system should perform** rather than
 - The interface should be **mobile-responsive** and **user-friendly** across devices.  
 - The system should support **multi-language functionality** for international users.  
 - Backups should be performed **daily** to prevent data loss.
+- 
+## Use Case Diagrams
+
+**Definition:**  
+A **Use Case Diagram** is a visual representation that shows the interactions between **users (actors)** and the **system**. It helps illustrate what the system should do by outlining the key use cases and how users engage with them.
+
+**Benefits of Use Case Diagrams:**
+- Provides a **clear overview** of system functionality.  
+- Helps in **identifying user roles** and their interactions with the system.  
+- Serves as a **communication tool** between stakeholders, analysts, and developers.  
+- Supports the creation of detailed **use case specifications** for development and testing.
+
+---
+
+### **Use Case Diagram for the Booking Management System**
+
+**Actors:**
+- **Guest/User** – Searches, books, and manages reservations.  
+- **Property Owner** – Manages property listings and monitors bookings.  
+- **Admin** – Oversees users, properties, and system operations.
+
+**Use Cases:**
+- Create Account / Login  
+- Search for Property  
+- View Property Details  
+- Book Property  
+- Manage Bookings  
+- Add / Edit / Remove Property  
+- View Reports  
+- Manage Users
+
+Below is the visual representation of the use case diagram:
+
+<img width="4480" height="2721" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/f1acb1c6-f20c-4d1b-86b8-60cd176e6d22" />
