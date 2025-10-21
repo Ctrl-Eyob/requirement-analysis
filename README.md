@@ -53,3 +53,34 @@ The Requirement Analysis process is composed of several interrelated activities 
 
 These five activities collectively ensure that the software project starts on a solid foundation — reducing risks, improving communication, and aligning the development team with stakeholder goals.
 
+## Types of Requirements
+
+In software development, requirements are generally categorized into two main types: **Functional Requirements** and **Non-functional Requirements**.  
+Both are essential for defining what a system should do and how it should perform.
+
+### **1. Functional Requirements**
+
+**Definition:**  
+Functional requirements specify **what the system should do**. They describe the core functions, features, and interactions that the software must support to fulfill user needs.
+
+**Examples (Booking Management Project):**
+- Users should be able to **create an account** and log in securely.  
+- The system should allow users to **search for available properties** based on filters such as location, price, and availability.  
+- Users should be able to **book a property** by selecting check-in and check-out dates.  
+- Property owners should be able to **add, edit, and remove listings**.  
+- The system should **generate booking confirmations and send email notifications**.  
+- Admins should be able to **view reports and manage user accounts**.
+
+### **2. Non-functional Requirements**
+
+**Definition:**  
+Non-functional requirements define **how the system should perform** rather than what it does. They focus on the quality attributes such as performance, reliability, security, usability, and scalability.
+
+**Examples (Booking Management Project):**
+- The system should **load pages within 2 seconds** under normal network conditions.  
+- It should support **at least 500 concurrent users** without performance degradation.  
+- All sensitive data must be **encrypted** during storage and transmission.  
+- The system should maintain **99.9% uptime** to ensure continuous availability.  
+- The interface should be **mobile-responsive** and **user-friendly** across devices.  
+- The system should support **multi-language functionality** for international users.  
+- Backups should be performed **daily** to prevent data loss.
