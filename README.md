@@ -119,3 +119,32 @@ Below is the visual representation of the use case diagram:
 
 <img width="4480" height="2721" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/45e43018-3d31-49ed-9f66-3e7c30616183" />
 
+
+## Acceptance Criteria
+
+**Definition:**  
+**Acceptance Criteria** are a set of predefined conditions that a feature or functionality must meet for stakeholders to accept it as complete and satisfactory.  
+They define the boundaries of a user story or requirement and serve as the **basis for validation and testing**.
+
+### **Importance of Acceptance Criteria**
+- Ensures **clear understanding** between developers, testers, and stakeholders about what needs to be delivered.  
+- Helps **avoid ambiguity** by providing measurable and testable outcomes.  
+- Acts as a **checkpoint** for quality assurance before deployment.  
+- Supports the creation of **test cases** that directly verify feature completion.  
+- Encourages **collaboration** and shared expectations across teams.
+
+### **Example: Acceptance Criteria for the Checkout Feature**
+
+**Feature:** Checkout Process in the Booking Management System  
+
+**Acceptance Criteria:**
+- The user must be able to view a **summary of their booking details** (property name, check-in/check-out dates, and total price) before confirming payment.  
+- The system must allow payment via **multiple methods** (e.g., credit/debit card, PayPal, or mobile wallet).  
+- The system should display a **confirmation message** after successful payment.  
+- A **booking confirmation email** must be automatically sent to the user.  
+- If payment fails, an **error message** should be shown, and the user must have the option to retry.  
+- All checkout data must be transmitted securely using **SSL encryption**.
+
+---
+
+Acceptance Criteria ensure that each feature delivers the expected value, functions correctly, and aligns with stakeholder expectations — serving as the final validation point before release.
